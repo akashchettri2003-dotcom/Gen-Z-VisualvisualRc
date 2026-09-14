@@ -25,5 +25,5 @@ A production-minded starter platform for publishing and reading independent nove
 Payments, email verification, object storage, CDN, DRM and social login require real provider credentials and infrastructure. This starter intentionally does not fake real transactions.
 
 ## Demo account
-Email: demo@genvisual.local
-Password: Demo123!
+Email: xhettriakash1gmail.com.local
+Password: demo12345!
